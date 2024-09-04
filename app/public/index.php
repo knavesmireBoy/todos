@@ -1,5 +1,4 @@
 <?php
-//require_once realpath("../../.env");
 $env = parse_ini_file("../../.env");
 $layout = 'layout.html.php';
 
